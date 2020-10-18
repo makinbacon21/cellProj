@@ -13,6 +13,7 @@ public class MouseAimCamera : MonoBehaviour {
 
     void Start()
     {
+        Cursor.visible = false;
         targetDistance = Vector3.Distance(transform.position, target.transform.position);
     }
 
