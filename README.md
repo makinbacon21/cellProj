@@ -12,4 +12,6 @@ Skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/farland-
 
 Song: https://www.youtube.com/watch?v=-zafJKbMPA8
 
+Camera script template: https://code.tutsplus.com/tutorials/unity3d-third-person-cameras--mobile-11230
+
 Made with Unity: https://unity.com/
